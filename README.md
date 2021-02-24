@@ -1,5 +1,14 @@
-### Hi there 👋
-🌱 I’m currently learning :)
+# [D-0M](https://github.com/D-0M/D-0M/) :bear:
+### Hi there :octocat:
+
+## Social :bear:💌 :-
+![](TEST)
+[<img src="https://github.com/D-0M/D-0M/blob/main/icons/twitter.png">](https://twitter.com/Do00M/)
+[<img src="https://github.com/D-0M/D-0M/blob/main/icons/telegram.png">](https://t.me/D_00M/)
+[<img src="https://github.com/D-0M/D-0M/blob/main/icons/instagram.png">](https://www.instagram.com/bdaaa/)
+[<img src="https://github.com/D-0M/D-0M/blob/main/icons/discord.png">](https://discord.gg/MPbkE2Q/)
+[<img src="https://github.com/D-0M/D-0M/blob/main/icons/tiktok.png">](https://www.tiktok.com/@marvellousman/)
+
 <!--
 **D-0M/D-0M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
