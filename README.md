@@ -1,7 +1,7 @@
 # [D-0M](https://github.com/D-0M/D-0M/) :bear:
 ### Hi there :octocat:
 
-## Social :bear:💌 :-
+## Social 📬:bear::-
 ![](TEST)
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/twitter.png">](https://twitter.com/Do00M/)
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/telegram.png">](https://t.me/D_00M/)
