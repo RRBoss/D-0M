@@ -1,6 +1,9 @@
 # [D-0M](https://github.com/D-0M/D-0M/)
-### Hi there :octocat:
+## Hi there :octocat:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--
 
 ## Social 📬:-
 ![](TEST)
@@ -10,7 +13,6 @@
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/discord.png">](https://discord.gg/MPbkE2Q/)
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/tiktok.png">](https://www.tiktok.com/@marvellousman/)
 
-<!--
 **D-0M/D-0M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
