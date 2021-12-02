@@ -2,7 +2,7 @@
 ### Hi there :octocat:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Social 📬:bear::-
+## Social 📬:-
 ![](TEST)
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/twitter.png">](https://twitter.com/Do00M/)
 [<img src="https://github.com/D-0M/D-0M/blob/main/icons/telegram.png">](https://t.me/D_00M/)
