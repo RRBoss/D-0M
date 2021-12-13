@@ -1,6 +1,6 @@
 # [D-0M](https://github.com/D-0M/D-0M/)
 ## Hi there :octocat:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://cyberies.tk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=d-0m&row=2&column=3&theme=onedark)](https://cyberies.tk)
 
 
 <!--
